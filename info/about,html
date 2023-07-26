@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Обо мне</title>
+</head>
+
+<body>
+    <a href="../index.html">Главная</a>
+    <a href="about.html">Обо мне</a>
+    <a href="../form.html">Оставить заявку</a>
+    <h1>Обо мне</h1>
+    <img width="450" src="../Img/student.jpg" alt="photo">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate dignissimos itaque porro soluta fugit dolores
+        animi doloribus numquam unde possimus iusto est eius, a assumenda labore expedita! Facilis velit cum accusantium
+        totam! Odio doloremque quasi reprehenderit dolorum natus voluptatum exercitationem enim temporibus recusandae
+        eos! Nemo maiores inventore perspiciatis porro rem. Nesciunt incidunt nobis ipsa doloremque quo placeat
+        accusamus quos repudiandae distinctio suscipit, amet provident alias eveniet sit beatae illum voluptatem fugiat
+        perferendis obcaecati hic corrupti maiores enim natus officia! Dicta laboriosam quasi aliquid magni delectus sit
+        aperiam veritatis ex eligendi nesciunt. Expedita blanditiis laborum illum aperiam nobis facilis, sapiente a
+        magni nulla quibusdam adipisci iusto necessitatibus ipsum eius dolores qui maxime ratione quia! Nostrum odio
+        cumque nesciunt temporibus alias consequuntur fugit hic, aperiam repudiandae doloremque aut veritatis, iusto
+        eveniet. Corrupti assumenda quaerat, distinctio reiciendis doloremque accusantium amet perspiciatis. Ab minima,
+        nulla molestias repudiandae illo quae dolor a libero aliquam quis.</p>
+
+</body>
+
+</html>
